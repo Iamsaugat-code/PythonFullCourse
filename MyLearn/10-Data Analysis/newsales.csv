@@ -1,0 +1,16 @@
+Order_ID,Date,Product,Category,Region,Quantity,Unit_Price,Salesperson,Total_Sales
+1001,2026-01-05,Laptop,Electronics,East,2,850.0,Aarav,1700
+1002,2026-01-08,Mouse,Accessories,West,15,25.0,Mina,375
+1003,2026-01-12,Keyboard,Accessories,North,8,45.0,Rohan,360
+1004,2026-01-15,Monitor,Electronics,South,3,220.0,Sita,660
+1005,2026-01-19,Headphones,Accessories,,10,60.0,Aarav,600
+1006,2026-01-23,Laptop,Electronics,North,1,900.0,Rohan,900
+1007,2026-02-02,Webcam,Accessories,West,6,75.0,Mina,450
+1008,2026-02-07,Mouse,Accessories,South,20,25.0,Sita,500
+1009,2026-02-11,Monitor,Electronics,East,4,210.0,Aarav,840
+1010,2026-02-18,Keyboard,Accessories,North,12,50.0,,600
+1011,2026-02-22,Headphones,Accessories,West,7,65.0,Mina,455
+1012,2026-03-03,Laptop,Electronics,South,3,880.0,Sita,2640
+1013,2026-03-09,Webcam,Accessories,East,9,,Aarav,630
+1014,2026-03-15,Monitor,Electronics,North,5,230.0,Rohan,1150
+1015,2026-03-21,Mouse,Accessories,West,18,28.0,Mina,504

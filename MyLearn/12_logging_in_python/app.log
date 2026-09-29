@@ -1,0 +1,5 @@
+2026-08-17 12:41:45,588-module_1-DEBUG-This is the message for debug : 
+2026-08-17 12:41:45,590-module_1-WARNING-This is the message for warnign : 
+2026-08-17 12:41:45,591-module_1-ERROR-This is the message for error : 
+2026-08-17 12:41:45,593-module_1-INFO-This is the message for info : 
+2026-08-17 12:41:45,594-module_1-CRITICAL-This is the message for critical : 

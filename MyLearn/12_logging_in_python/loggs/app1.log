@@ -1,0 +1,8 @@
+2026-08-16  17:32:17-Mathematical operation : -DEBUG-addition of 2 + 3 = 5
+2026-08-16  17:32:17-Mathematical operation : -DEBUG-subtraction of 2 - 3 = -1
+2026-08-16  17:32:17-Mathematical operation : -DEBUG-multiplication of 2 x 3 = 6
+2026-08-16  17:32:17-Mathematical operation : -DEBUG-division of 2 / 3 = 0.6666666666666666
+2026-08-16  17:32:29-Mathematical operation : -DEBUG-addition of 2 + 3 = 5
+2026-08-16  17:32:29-Mathematical operation : -DEBUG-subtraction of 2 - 3 = -1
+2026-08-16  17:32:29-Mathematical operation : -DEBUG-multiplication of 2 x 3 = 6
+2026-08-16  17:32:29-Mathematical operation : -ERROR-canot divide by zero : 

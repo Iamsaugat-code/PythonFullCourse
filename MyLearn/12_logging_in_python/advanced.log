@@ -1,0 +1,10 @@
+2026-08-18 18:08:06,833-__main__-DEBUG-This is a debug message
+2026-08-18 18:08:06,833-__main__-INFO-This is an info message
+2026-08-18 18:08:06,833-__main__-WARNING-This is a warning message
+2026-08-18 18:08:06,833-__main__-ERROR-This is an error message
+2026-08-18 18:08:06,833-__main__-CRITICAL-This is a critical message
+2026-08-18 18:08:23,724-__main__-DEBUG-This is a debug message
+2026-08-18 18:08:23,724-__main__-INFO-This is an info message
+2026-08-18 18:08:23,724-__main__-WARNING-This is a warning message
+2026-08-18 18:08:23,725-__main__-ERROR-This is an error message
+2026-08-18 18:08:23,725-__main__-CRITICAL-This is a critical message
